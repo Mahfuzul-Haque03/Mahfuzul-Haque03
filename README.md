@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mahfuzul Haque Gazi</h1>
-<h3 align="center">A passionate developer and researcher from Bangladesh</h3>
+<h3 align="center">A passionate researcher and developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzul-haque03&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzul-haque03" /> </p>
 
